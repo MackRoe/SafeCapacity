@@ -1,0 +1,21 @@
+{
+  "name": "socially-distanced-capacity",
+  "version": "1.0.0",
+  "description": "Calculates the maximum capacity of people for safe social distancing within given dimension of an indoor space",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Covid-19",
+    "SocialDistancing",
+    "Pandemic",
+    "Safety",
+    "Tool"
+  ],
+  "author": "Laine MackRoe",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
