@@ -1,6 +1,6 @@
 {
   "name": "socially-distanced-capacity",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Calculates the maximum capacity of people for safe social distancing within given dimension of an indoor space",
   "main": "index.js",
   "scripts": {
