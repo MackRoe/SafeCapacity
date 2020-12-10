@@ -4,7 +4,7 @@ console.log('Please enter the Length and Width of your indoor space in feet');
 
 let spaceLength = prompt("Length: ");
 let spaceWidth = prompt("Width: ");
-let dividerValue = 7;
+let dividerValue = 7.5;
 
 let squareSpace = Number(spaceLength) * Number(spaceWidth);
 
